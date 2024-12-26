@@ -1,0 +1,30 @@
+
+.my-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10%;
+    padding: 10px;
+    background-color: rgb(7, 7, 7);
+}
+.web-logo{
+   color: rgb(10, 212, 10);
+ 
+    
+}
+
+
+.nav-ul-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.my-nav-items{
+    color: white;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.my-nav-items:hover{
+    color : green
+}

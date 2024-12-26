@@ -1,0 +1,11 @@
+.jobs-card{
+
+    width: 100%;
+    border: 1px solid grey;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    list-style: none;
+    margin-top: 20px;
+    color: white;
+}
